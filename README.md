@@ -1,1 +1,1 @@
-# nodejs-mongodb
+# nodejs-mongodb + ejs views
